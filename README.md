@@ -1,8 +1,10 @@
 # Sobre mí
-- Esto es una prueba inicial.
+- I'm currently engaged in a variety of projects, both individual and collaborative. Working with friends allows me to learn how to collaborate effectively while gaining insight into others' code and perspectives.
+- My primary focus right now is enhancing my expertise in frontend design technologies. Currently, I’m mastering the Angular Framework as I delve deeper into building dynamic, responsive, and engaging user interfaces. Continuous learning and adapting to new tools and techniques in the tech world is something I’m passionate about, and I’m constantly seeking opportunities to grow as a developer.
+- Beyond coding, I'm also a bassist and a history enthusiast, as I enjoy diving into the pages of a historical book.
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-mulero-l%C3%B3pez-51b86827b/)
 
 ---
 
